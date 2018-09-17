@@ -1,0 +1,13 @@
+
+body{
+    padding-top: 50px;
+    margin: 2px;
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.colorWhite{
+    color: white;
+}
