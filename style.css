@@ -10,3 +10,28 @@ body{
 .colorWhite{
     color: white;
 }
+
+.s90-width{
+    width: 90%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.Padding-left{
+    padding-left: 30px;
+}
+
+.display-inline{
+    display: inline;
+}
+
+.navbar-height{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-merge{
+    margin-top: 10px;
+}
