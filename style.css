@@ -35,3 +35,25 @@ a:hover {
 .btn-merge{
     margin-top: 10px;
 }
+.color-Black{
+    color:black;
+}
+
+.input-merge{
+    margin-top: 15px;
+}
+
+.absolute-right{
+    position: absolute;
+    right: 15px;
+}
+
+.footer-margin{
+    margin:  20px;
+}
+.icona{
+    z-index: 2;
+}
+.mar{
+    margin-bottom: 60px;
+}
